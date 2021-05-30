@@ -1,0 +1,15 @@
+Craig Bursey - Jade Tuesday
+
+The survey used to express feedback on the game can be found here:
+https://docs.google.com/forms/d/e/1FAIpQLScxl-5sSFcqoS3NUdLbIdtYRssre_rvRSA3yKWHCZG8zMuUeQ/viewform
+
+All artistic assets used in the game, except those listed below, are original.
+All borrowed assets are in the public domain.
+
+WORKS CITED
+
+Magntron. "gameMusic".
+	https://www.freesound.org/people/Magntron/sounds/335571/
+
+Zenith Infinitive Studios. "UI_Correct_button2.wav".
+	https://www.freesound.org/people/ZenithInfinitiveStudios/sounds/343003/
